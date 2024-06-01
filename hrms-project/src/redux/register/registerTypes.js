@@ -1,0 +1,2 @@
+export const POST_REG_INFO = 'POST_REG_INFO'
+export const POST_REG_INFO_SUCCESS = 'POST_REG_INFO_SUCCESS'

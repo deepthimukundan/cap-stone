@@ -1,0 +1,23 @@
+.centers {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.forms {
+    background-color: lightgoldenrodyellow;
+    width: 400px;
+    align-items: center;
+    padding: 35px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h1{
+    color:rgb(73, 69, 69);
+}
